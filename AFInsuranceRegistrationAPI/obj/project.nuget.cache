@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IrfUAPntajSo1s4TEYMUqoTJ/KV9kLKa7WRMlbvd304n4+KgIvsoKR1Ah/ZxSuzwEz+LiieRZdmfy5t+xv7JKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sc32762\\source\\repos\\AFInsuranceRegistrationAPI\\AFInsuranceRegistrationAPI\\AFInsuranceRegistrationAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sc32762\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
